@@ -43,7 +43,7 @@
   "typings": "index",
   "dependencies": {
     "@nlabs/arkhamjs": "^3.11.7",
-    "@nlabs/react-native-utils": "^0.1.0",
+    "@nlabs/react-native-utils": "git+https://github.com/reciperevolution/react-native-utils.git",
     "@types/luxon": "^1.2.2",
     "lodash": "^4.17.10",
     "luxon": "^1.3.3",
